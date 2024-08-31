@@ -26,3 +26,5 @@ function isPrime(num) {
   }
   return true;
 }
+
+// or
